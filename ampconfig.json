@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "abdel app",
+    "description": "abdel app",
+    "version": "m3r1dlld",
+    "id": "cl1us5yob134788501s6wonc7cyl",
+    "url": "https://app.amplication.com/cl1us5yob134788501s6wonc7cyl",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1us5yob134788501s6wonc7cyl",
+      "authProvider": "Jwt"
+    }
+  }
+}
